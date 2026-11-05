@@ -656,7 +656,8 @@ section {
   color: #FF8C00;
 }
 
-/* Sold Outカードのタグは控えめに */
+/* Sold Outカードの商品名とタグは控えめに */
+.goods-card.sold-out .card-title,
 .goods-card.sold-out .goods-tag {
   opacity: 0.5;
 }
